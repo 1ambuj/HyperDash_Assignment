@@ -1,5 +1,5 @@
 import AirXAd from "./Fetures/AirXAd";
-import FetureAirX from "./Fetures/fetureAirX";
+import FetureAirX from "./Fetures/FetureAirX";
 import FetureLexoZ from "./Fetures/FetureLexoZ";
 import FetureNumerical from "./Fetures/FetureNumerical";
 import NewFeatureAirX from "./Fetures/NewFeatureAirX";
