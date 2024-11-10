@@ -1,5 +1,5 @@
 
-import Airx1 from "../../assets/features2.1video.png"
+import Airx1 from "../../assets/Features2.1video.png"
 const FetureAirX = () => {
   return (
     <div className="bg-[#1A1A1A] w-full  ">
